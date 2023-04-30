@@ -15,6 +15,7 @@
 body {
     background-color: var(--cream-background);
     padding: 8% 25%;
+    overflow: hidden;
 }
 
 .area {
